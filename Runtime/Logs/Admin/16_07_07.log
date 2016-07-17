@@ -1,0 +1,27 @@
+[ 2016-07-07T08:53:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-07-07T08:53:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-07T08:53:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-07-07T08:53:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-07T20:11:25+08:00 ] 127.0.0.1 /index.php/Admin/API/createJSON
+ERR: 无法加载控制器:API
+
+[ 2016-07-07T20:13:04+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-07-07T20:13:04+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-07T21:45:34+08:00 ] 127.0.0.1 /index.php/Admin/API/tianqi
+ERR: 非法操作:tianqi
+
+[ 2016-07-07T21:45:45+08:00 ] 127.0.0.1 /index.php/Admin/API/tianqi
+ERR: 非法操作:tianqi
+

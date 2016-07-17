@@ -1,0 +1,6 @@
+[ 2016-06-25T01:16:23+08:00 ] 127.0.0.1 /video/index.php/Home/Index/index
+ERR: 模板不存在:C:/wamp/www/video/Home/View/Index/index.html
+
+[ 2016-06-25T01:27:04+08:00 ] 127.0.0.1 /video/index.php/Home/Index/index
+ERR: 模板不存在:C:/wamp/www/video/Home/View/Index/index.html
+

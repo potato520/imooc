@@ -1,0 +1,39 @@
+[ 2016-07-10T01:12:03+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Weixin/getUserList
+ERR: 参数错误或者未定义:openid
+
+[ 2016-07-10T01:19:59+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Weixin/getUserList
+ERR: 参数错误或者未定义:openid
+
+[ 2016-07-10T01:24:25+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Weixin/getUserConn/oLZPqwcNp2wgXfRXfQNyoEfF4arA
+ERR: 参数错误或者未定义:url
+
+[ 2016-07-10T01:24:49+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Weixin/getUserConn/openid/oLZPqwcNp2wgXfRXfQNyoEfF4arA
+ERR: 参数错误或者未定义:url
+
+[ 2016-07-10T09:34:49+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-07-10T09:34:49+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-10T12:00:53+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-07-10T12:00:53+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-10T16:34:28+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-07-10T16:34:28+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-10T16:34:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-10T16:34:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-07-10T21:30:41+08:00 ] 127.0.0.1 /index.php/Admin/Weixin/
+ERR: 非法操作:login
+

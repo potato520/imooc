@@ -1,0 +1,36 @@
+[ 2016-07-16T00:08:41+08:00 ] ::1 /imooc/index.php/Home/Course/index?id=5
+ERR: 1054:Unknown column 'parent_id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `course` WHERE (  2>1 AND parent_id = 5 ) 
+
+[ 2016-07-16T00:09:26+08:00 ] ::1 /imooc/index.php/Home/Course/index?id=5
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `course` WHERE (  2>1 AND  ) 
+
+[ 2016-07-16T00:09:31+08:00 ] ::1 /imooc/index.php/Home/Course/index?id=5
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `course` WHERE (  2>1 AND  ) 
+
+[ 2016-07-16T00:10:05+08:00 ] ::1 /imooc/index.php/Home/Course/index?id=5
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `course` WHERE (  2>1 AND  ) 
+
+[ 2016-07-16T00:10:24+08:00 ] ::1 /imooc/index.php/Home/Course/index?id=5
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `course` WHERE (  2>1 AND  ) 
+
+[ 2016-07-16T00:10:25+08:00 ] ::1 /imooc/index.php/Home/Course/index?id=5
+ERR: 1054:Unknown column '5id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `category` WHERE ( parent_id = 5id = 5 ) 
+
+[ 2016-07-16T00:10:41+08:00 ] ::1 /imooc/index.php/Home/Course/index?id=5
+ERR: 1054:Unknown column '5id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `category` WHERE ( parent_id = 5id = 5 ) 
+
+[ 2016-07-16T00:24:19+08:00 ] ::1 /imooc/index.php/Home/Course/index?id=5
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND category_id IN (6,7,8,9) )' at line 1
+ [ SQL语句 ] : SELECT * FROM `course` WHERE (  2>1 AND  AND category_id IN (6,7,8,9) ) 
+
+[ 2016-07-16T00:24:31+08:00 ] ::1 /imooc/index.php/Home/Course/index?id=5
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND category_id IN (6,7,8,9) )' at line 1
+ [ SQL语句 ] : SELECT * FROM `course` WHERE (  2>1 AND  AND category_id IN (6,7,8,9) ) 
+

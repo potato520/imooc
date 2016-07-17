@@ -1,0 +1,102 @@
+[ 2016-06-25T01:16:31+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-25T01:16:31+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T01:16:31+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-25T01:16:31+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T01:16:40+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-25T01:16:40+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T01:16:51+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T01:16:51+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-25T01:16:51+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T01:16:58+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T01:16:58+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-25T01:16:58+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T01:17:11+08:00 ] 127.0.0.1 /video/index.php/Admin/Index/
+ERR: 非法操作:login
+
+[ 2016-06-25T01:39:46+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-25T01:39:46+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T01:39:55+08:00 ] 127.0.0.1 /video/index.php/Admin/Index/
+ERR: 非法操作:login
+
+[ 2016-06-25T08:46:34+08:00 ] 127.0.0.1 /video/index.php/Admin/Index/
+ERR: 非法操作:login
+
+[ 2016-06-25T11:36:23+08:00 ] 127.0.0.1 /video/index.php/Admin/Index/
+ERR: 非法操作:login
+
+[ 2016-06-25T11:37:33+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-25T11:37:33+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T14:12:04+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T14:12:04+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-25T14:12:04+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T14:12:14+08:00 ] 127.0.0.1 /video/index.php/Admin/Index/
+ERR: 非法操作:login
+
+[ 2016-06-25T14:44:37+08:00 ] 127.0.0.1 /video/index.php/Admin/topic.html
+ERR: 无法加载控制器:Topic
+
+[ 2016-06-25T14:44:39+08:00 ] 127.0.0.1 /video/index.php/Admin/wish.html
+ERR: 无法加载控制器:Wish
+
+[ 2016-06-25T14:44:41+08:00 ] 127.0.0.1 /video/index.php/Admin/appointment.html
+ERR: 无法加载控制器:Appointment
+
+[ 2016-06-25T17:23:41+08:00 ] 127.0.0.1 /video/index.php/Admin/Index/
+ERR: 非法操作:login
+
+[ 2016-06-25T17:32:50+08:00 ] 127.0.0.1 /video/index.php/Admin/Index/
+ERR: 非法操作:login
+
+[ 2016-06-25T19:19:24+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-25T19:19:24+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T19:19:24+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-25T19:19:24+08:00 ] 127.0.0.1 /video/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-25T19:19:25+08:00 ] 127.0.0.1 /video/index.php/Admin/Index/
+ERR: 非法操作:login
+

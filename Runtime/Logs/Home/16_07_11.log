@@ -1,0 +1,114 @@
+[ 2016-07-11T10:31:44+08:00 ] 127.0.0.1 /index.php/Home/Course/cat/s/javascript
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `category` WHERE `nickname` = 'javascript'  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `category` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE ( parent_id = 1 )  [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\CourseController::getCurrFX(), called in C:\wamp\www\imooc\Home\Controller\CourseController.class.php on line 144 and defined C:\wamp\www\imooc\Home\Controller\CourseController.class.php 第 65 行.
+SQL: SELECT * FROM `category` WHERE ( parent_id=0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `course` WHERE ( category_id = 3 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+NOTIC: [8] Undefined variable: n C:\wamp\www\imooc\Runtime\Cache\Home\bc6fdf36c82abe694579302f90e17845.php 第 160 行.
+NOTIC: [8] Undefined variable: n C:\wamp\www\imooc\Runtime\Cache\Home\bc6fdf36c82abe694579302f90e17845.php 第 166 行.
+NOTIC: [8] Undefined variable: n C:\wamp\www\imooc\Runtime\Cache\Home\bc6fdf36c82abe694579302f90e17845.php 第 169 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012354s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-07-11T10:31:47+08:00 ] 127.0.0.1 /index.php/Home/Course/cat/s/html5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `category` WHERE `nickname` = 'html5'  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `category` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `category` WHERE ( parent_id = 1 )  [ RunTime:0.0002s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\CourseController::getCurrFX(), called in C:\wamp\www\imooc\Home\Controller\CourseController.class.php on line 144 and defined C:\wamp\www\imooc\Home\Controller\CourseController.class.php 第 65 行.
+SQL: SELECT * FROM `category` WHERE ( parent_id=0 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `course` WHERE ( category_id = 4 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+NOTIC: [8] Undefined variable: n C:\wamp\www\imooc\Runtime\Cache\Home\bc6fdf36c82abe694579302f90e17845.php 第 160 行.
+NOTIC: [8] Undefined variable: n C:\wamp\www\imooc\Runtime\Cache\Home\bc6fdf36c82abe694579302f90e17845.php 第 166 行.
+NOTIC: [8] Undefined variable: n C:\wamp\www\imooc\Runtime\Cache\Home\bc6fdf36c82abe694579302f90e17845.php 第 169 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012425s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-07-11T10:31:51+08:00 ] 127.0.0.1 /index.php/Home/Course/cat/s/java
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `category` WHERE `nickname` = 'java'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `category` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `category` WHERE ( parent_id = 5 )  [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\CourseController::getCurrFX(), called in C:\wamp\www\imooc\Home\Controller\CourseController.class.php on line 144 and defined C:\wamp\www\imooc\Home\Controller\CourseController.class.php 第 65 行.
+SQL: SELECT * FROM `category` WHERE ( parent_id=0 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `course` WHERE ( category_id = 7 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+NOTIC: [8] Undefined variable: n C:\wamp\www\imooc\Runtime\Cache\Home\bc6fdf36c82abe694579302f90e17845.php 第 160 行.
+NOTIC: [8] Undefined variable: n C:\wamp\www\imooc\Runtime\Cache\Home\bc6fdf36c82abe694579302f90e17845.php 第 166 行.
+NOTIC: [8] Undefined variable: n C:\wamp\www\imooc\Runtime\Cache\Home\bc6fdf36c82abe694579302f90e17845.php 第 169 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-07-11T10:35:47+08:00 ] 127.0.0.1 /index.php/Home/Course/cat2/s/
+ERR: 非法操作:cat2
+
+[ 2016-07-11T10:43:32+08:00 ] 127.0.0.1 /index.php/Home/Course/cat2/s/
+ERR: 非法操作:cat2
+
+[ 2016-07-11T10:49:55+08:00 ] 127.0.0.1 /index.php/Home/Course/cat2/s/
+ERR: 非法操作:cat2
+
+[ 2016-07-11T11:02:34+08:00 ] 127.0.0.1 /index.php/Home/CourseList/index/id/1
+ERR: 模板不存在:C:/wamp/www/imooc/Home/View/CourseList/index.html
+
+[ 2016-07-11T11:33:52+08:00 ] 127.0.0.1 /index.php/Home/CourseList/main/
+ERR: 非法操作:main
+
+[ 2016-07-11T11:36:33+08:00 ] 127.0.0.1 /index.php/Home/Course/cat2/s/
+ERR: 非法操作:cat2
+
+[ 2016-07-11T11:37:00+08:00 ] 127.0.0.1 /index.php/Home/Course/cat/s/1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `category` WHERE ( id= ) LIMIT 1  
+
+[ 2016-07-11T11:38:51+08:00 ] 127.0.0.1 /index.php/Home/Course/cat/s/1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `category` WHERE ( id= ) LIMIT 1  
+
+[ 2016-07-11T11:39:01+08:00 ] 127.0.0.1 /index.php/Home/Course/cat/s/1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `category` WHERE ( id= ) LIMIT 1  
+

@@ -1,0 +1,24 @@
+[ 2016-07-12T22:38:30+08:00 ] 127.0.0.1 /index.php/Admin/API/kuaidi
+ERR: 参数错误或者未定义:type
+
+[ 2016-07-12T22:38:32+08:00 ] 127.0.0.1 /index.php/Admin/API/kuaidi/
+ERR: 参数错误或者未定义:type
+
+[ 2016-07-12T22:43:56+08:00 ] 127.0.0.1 /index.php/Admin/API/kuaidi/
+ERR: 参数错误或者未定义:type
+
+[ 2016-07-12T23:09:40+08:00 ] 127.0.0.1 /index.php/Admin/API/sendMail
+ERR: 非法操作:sendMail
+
+[ 2016-07-12T23:48:03+08:00 ] 127.0.0.1 /index.php/Admin/API/toSendMail
+ERR: 1146:Table 'mvc3.res__mail' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `res__mail`
+
+[ 2016-07-12T23:48:33+08:00 ] 127.0.0.1 /index.php/Admin/API/toSendMail
+ERR: 1146:Table 'mvc3.res__mail' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `res__mail`
+
+[ 2016-07-12T23:48:41+08:00 ] 127.0.0.1 /index.php/Admin/API/toSendMail
+ERR: 1146:Table 'mvc3.res__mail' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `res__mail`
+

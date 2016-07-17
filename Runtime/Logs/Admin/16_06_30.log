@@ -1,0 +1,711 @@
+[ 2016-06-30T00:08:33+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: 1146:Table 'mvc3.role' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `role`
+
+[ 2016-06-30T00:17:44+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: 1146:Table 'mvc3.role' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `role`
+
+[ 2016-06-30T00:35:41+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: 1054:Unknown column 'think_role.id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `user` LEFT JOIN think_role_user AS ru
+			ON user.id=ru.user_id AND ru.role_id=think_role.id  
+
+[ 2016-06-30T00:35:48+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: 1054:Unknown column 'think_role.id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `user` LEFT JOIN think_role_user AS ru
+			ON user.id=ru.user_id AND ru.role_id=think_role.id  
+
+[ 2016-06-30T00:37:00+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+ [ SQL语句 ] : SELECT * FROM `user` LEFT JOIN think_role_user AS ru
+			LEFT JOIN think_role AS r
+			ON user.id=ru.user_id AND ru.role_id=r.id  
+
+[ 2016-06-30T00:46:21+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS ru,
+				think_role AS r
+				WHERE ru.role_id=r.id
+				AND ru.user_id=user.' at line 1
+ [ SQL语句 ] : SELECT * FROM `user` WHERE ( think_role_user AS ru,
+				think_role AS r
+				WHERE ru.role_id=r.id
+				AND ru.user_id=user.id ) 
+
+[ 2016-06-30T00:46:40+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS ru,
+				think_role AS r
+				WHERE ru.role_id=r.id
+				AND ru.user_id=user.' at line 1
+ [ SQL语句 ] : SELECT * FROM `user` WHERE ( think_role_user AS ru,
+				think_role AS r
+				WHERE ru.role_id=r.id
+				AND ru.user_id=user.id ) 
+
+[ 2016-06-30T00:56:25+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: XML标签语法错误 : condition='$vo['name'] == C("RBAC_SUPPERADMIN") '
+
+[ 2016-06-30T00:57:52+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: XML标签语法错误 : condition='$vo['name'] == C("RBAC_SUPPERADMIN")'
+
+[ 2016-06-30T00:57:52+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: XML标签语法错误 : condition='$vo['name'] == C("RBAC_SUPPERADMIN")'
+
+[ 2016-06-30T00:57:53+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: XML标签语法错误 : condition='$vo['name'] == C("RBAC_SUPPERADMIN")'
+
+[ 2016-06-30T00:57:53+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: XML标签语法错误 : condition='$vo['name'] == C("RBAC_SUPPERADMIN")'
+
+[ 2016-06-30T01:16:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/calendar.html
+ERR: 非法操作:calendar
+
+[ 2016-06-30T01:16:38+08:00 ] 127.0.0.1 /index.php/Admin/Login/outLogin
+ERR: 非法操作:outLogin
+
+[ 2016-06-30T01:16:52+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:16:52+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:17:16+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:17:16+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:17:32+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:17:32+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:18:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:18:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:19:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:19:27+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:19:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:19:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:23:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:23:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:23:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:23:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:23:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:23:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:23:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:24:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:24:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:24:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:24:53+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:24:53+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:30:21+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:30:21+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:30:21+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:30:25+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:30:25+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:30:25+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:30:26+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:30:26+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:39:08+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:39:08+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:39:10+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:39:10+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:39:10+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:39:14+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:39:14+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:40:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:40:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:42:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:42:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:42:50+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:42:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:42:54+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:44:28+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:44:28+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:44:46+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:44:46+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:48:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:48:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:48:16+08:00 ] 127.0.0.1 /index.php/Admin/Login/login/
+ERR: 1146:Table 'mvc3.lb_role' doesn't exist
+ [ SQL语句 ] : select node.id,node.name from lb_role as role,lb_role_user as user,lb_access as access ,lb_node as node where user.user_id='' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=1 and node.status=1
+
+[ 2016-06-30T01:48:22+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:48:22+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:48:22+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:48:22+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:48:22+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:48:52+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:48:52+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:49:01+08:00 ] 127.0.0.1 /index.php/Admin/Login/login/
+ERR: 1146:Table 'mvc3.lb_role' doesn't exist
+ [ SQL语句 ] : select node.id,node.name from lb_role as role,lb_role_user as user,lb_access as access ,lb_node as node where user.user_id='' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=1 and node.status=1
+
+[ 2016-06-30T01:49:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:49:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:49:51+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:49:51+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:49:51+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:50:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:50:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:52:16+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:52:16+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:52:32+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:52:32+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:52:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:52:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:52:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:52:44+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:52:44+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:54:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:54:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:54:34+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T01:54:34+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T01:54:34+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T02:24:07+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T02:24:07+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T02:24:07+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T02:24:08+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T02:24:08+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T02:27:38+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T02:27:38+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T02:27:40+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T02:27:40+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T02:29:10+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T02:29:10+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T02:29:13+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T02:29:13+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T08:59:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T08:59:55+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:01+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:00:01+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:00:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:13+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:00:13+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:17+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:00:17+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:17+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:00:17+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:00:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:00:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:00:19+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:00:56+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:00:56+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:01:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:01:00+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T09:01:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T09:01:03+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T11:19:25+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T11:19:25+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T11:19:25+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T18:21:50+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexRole
+ERR: 1146:Table 'mvc3.think_role' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_role`
+
+[ 2016-06-30T18:22:14+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexUser
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T18:42:47+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: 模板不存在:C:/wamp/www/imooc/Admin/View/Menu/add.html
+
+[ 2016-06-30T19:11:26+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: 1062:Duplicate entry '' for key 'name'
+ [ SQL语句 ] : INSERT INTO `auth_rule` (`pid`,`title`,`name`,`sort`) VALUES ('0','分类管理','','0')
+
+[ 2016-06-30T19:12:09+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: 1062:Duplicate entry '' for key 'name'
+ [ SQL语句 ] : INSERT INTO `auth_rule` (`pid`,`title`,`name`,`sort`) VALUES ('0','分类管理','','0')
+
+[ 2016-06-30T19:12:38+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: 1062:Duplicate entry '' for key 'name'
+ [ SQL语句 ] : INSERT INTO `auth_rule` (`pid`,`title`,`name`,`sort`) VALUES ('0','分类管理','','0')
+
+[ 2016-06-30T19:15:23+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: 1062:Duplicate entry '' for key 'name'
+ [ SQL语句 ] : INSERT INTO `auth_rule` (`pid`,`title`,`name`,`sort`) VALUES ('0','带我飞啊','','0')
+
+[ 2016-06-30T19:16:06+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: 1062:Duplicate entry '' for key 'name'
+ [ SQL语句 ] : INSERT INTO `auth_rule` (`pid`,`title`,`name`,`sort`) VALUES ('0','绯闻绯闻','','0')
+
+[ 2016-06-30T19:18:06+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: 1062:Duplicate entry '' for key 'name'
+ [ SQL语句 ] : INSERT INTO `auth_rule` (`pid`,`title`,`name`,`sort`) VALUES ('0','还让他还让他','','0')
+
+[ 2016-06-30T19:18:12+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: 1062:Duplicate entry '' for key 'name'
+ [ SQL语句 ] : INSERT INTO `auth_rule` (`pid`,`title`,`name`,`sort`) VALUES ('0','123','','0')
+
+[ 2016-06-30T19:18:36+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: 1062:Duplicate entry '' for key 'name'
+ [ SQL语句 ] : INSERT INTO `auth_rule` (`pid`,`title`,`name`,`sort`) VALUES ('0','','','0')
+
+[ 2016-06-30T19:18:54+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: 1062:Duplicate entry '' for key 'name'
+ [ SQL语句 ] : INSERT INTO `auth_rule` (`pid`,`title`,`name`,`sort`) VALUES ('0','123','','0')
+
+[ 2016-06-30T19:19:20+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: 1062:Duplicate entry '' for key 'name'
+ [ SQL语句 ] : INSERT INTO `auth_rule` (`pid`,`title`,`name`,`sort`) VALUES ('0','','','0')
+
+[ 2016-06-30T19:32:00+08:00 ] 127.0.0.1 /index.php/Admin/Menu/add
+ERR: Think\Controller:getMenu方法不存在！
+
+[ 2016-06-30T19:49:36+08:00 ] 127.0.0.1 /index.php/Admin/Group/add
+ERR: 模板不存在:C:/wamp/www/imooc/Admin/View/Group/add.html
+
+[ 2016-06-30T19:49:36+08:00 ] 127.0.0.1 /index.php/Admin/Group/add
+ERR: 模板不存在:C:/wamp/www/imooc/Admin/View/Group/add.html
+
+[ 2016-06-30T20:04:23+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/indexRole
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T21:05:20+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Rbac/indexUser
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T21:05:20+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Rbac/addUser
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T21:05:21+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Rbac/indexNode
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T21:05:21+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Rbac/addNode
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T21:05:22+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Rbac/indexRole
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T21:20:03+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Rbac/indexRole
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T21:22:36+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Rbac/indexRole
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T21:23:50+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Rbac/indexRole
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T21:24:15+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Rbac/indexRole
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T21:24:16+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Rbac/addNode
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T21:35:51+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Rbac/indexUser
+ERR: 无法加载控制器:Rbac
+
+[ 2016-06-30T22:13:59+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Lgon/login
+ERR: 无法加载控制器:Lgon
+
+[ 2016-06-30T22:14:04+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:14:04+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:14:47+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/index
+ERR: 非法操作:index
+
+[ 2016-06-30T22:14:50+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:14:50+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:14:50+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:17:24+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:17:24+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:17:30+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:17:30+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:18:34+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:18:34+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:18:36+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:18:36+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:18:36+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:18:59+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:18:59+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:19:13+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:19:13+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:19:15+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:19:15+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:19:15+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:48:33+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:48:33+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:49:00+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:49:00+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:49:04+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:49:04+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:49:14+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:49:14+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:49:14+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:49:24+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:49:24+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:49:24+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:49:27+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:49:27+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:49:28+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:49:28+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:51:30+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:51:30+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T22:51:42+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T22:51:42+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T23:29:39+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T23:29:39+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T23:29:41+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T23:29:41+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T23:35:36+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T23:35:36+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T23:35:37+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T23:35:38+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T23:35:38+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T23:35:42+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-30T23:35:42+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-30T23:35:42+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+

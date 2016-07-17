@@ -1,0 +1,21 @@
+[ 2016-07-11T10:21:37+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-11T10:21:37+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-07-11T10:21:37+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-11T20:32:02+08:00 ] 127.0.0.1 /index.php/Admin/API/
+ERR: 非法操作:login
+
+[ 2016-07-11T21:23:05+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-11T21:23:05+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-07-11T21:23:05+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+

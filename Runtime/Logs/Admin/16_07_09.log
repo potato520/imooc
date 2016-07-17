@@ -1,0 +1,12 @@
+[ 2016-07-09T19:14:58+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-07-09T19:14:58+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-07-09T21:16:19+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-07-09T21:16:19+08:00 ] 127.0.0.1 /imooc/index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+

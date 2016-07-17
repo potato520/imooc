@@ -1,0 +1,837 @@
+[ 2016-06-26T11:12:02+08:00 ] 127.0.0.1 /video/index.php/Admin/Index/
+ERR: 非法操作:login
+
+[ 2016-06-26T11:37:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/
+ERR: 非法操作:login
+
+[ 2016-06-26T11:40:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/
+ERR: 非法操作:login
+
+[ 2016-06-26T11:40:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/
+ERR: 非法操作:login
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/css/bootstrap.min.css
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/css/ace.min.css
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/css/font-awesome.min.css
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/css/ace-skins.min.css
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/css/ace-fonts.css
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/css/ace-rtl.min.css
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/ace-extra.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery.easy-pie-chart.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery.sparkline.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/flot/jquery.flot.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/flot/jquery.flot.resize.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/flot/jquery.flot.pie.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:40:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/css/bootstrap.min.css
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/ace-extra.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery.easy-pie-chart.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/flot/jquery.flot.pie.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/flot/jquery.flot.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery.sparkline.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/flot/jquery.flot.resize.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:41:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:42:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:44:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T11:45:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T11:53:57+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-26T11:53:57+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-26T11:55:43+08:00 ] 127.0.0.1 /index.php/Admin/Common/head.html
+ERR: 无法加载控制器:Common
+
+[ 2016-06-26T11:56:07+08:00 ] 127.0.0.1 /index.php/Admin/Common/head.html
+ERR: 无法加载控制器:Common
+
+[ 2016-06-26T11:56:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/bootstrap.min.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/ace.min.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/ace-fonts.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/js/ace-extra.min.js
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/ace-rtl.min.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/ace-skins.min.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/font-awesome.min.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/bootstrap.min.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/ace-skins.min.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/ace-fonts.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/ace.min.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/ace-rtl.min.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/font-awesome.min.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/js/ace-extra.min.js
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T11:56:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/__PUBLIC__/Admin/Ace/assets/css/bootstrap.min.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-06-26T12:00:57+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:00:58+08:00 ] 127.0.0.1 /index.php/Admin/Index/jqgrid.html
+ERR: 非法操作:jqgrid
+
+[ 2016-06-26T12:00:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:01:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:02:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/jqgrid.html
+ERR: 非法操作:jqgrid
+
+[ 2016-06-26T12:02:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:02:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/jqgrid.html
+ERR: 非法操作:jqgrid
+
+[ 2016-06-26T12:02:01+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:02:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/jqgrid.html
+ERR: 非法操作:jqgrid
+
+[ 2016-06-26T12:02:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:02:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:02:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/typography.html
+ERR: 非法操作:typography
+
+[ 2016-06-26T12:02:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:02:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:03:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:03:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/jqgrid.html
+ERR: 非法操作:jqgrid
+
+[ 2016-06-26T12:03:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/form-elements.html
+ERR: 非法操作:form-elements
+
+[ 2016-06-26T12:03:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/jqgrid.html
+ERR: 非法操作:jqgrid
+
+[ 2016-06-26T12:06:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:06:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T12:06:14+08:00 ] 127.0.0.1 /index.php/Admin/Index/Category/index
+ERR: 非法操作:Category
+
+[ 2016-06-26T12:07:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/jqgrid.html
+ERR: 非法操作:jqgrid
+
+[ 2016-06-26T12:07:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/jqgrid.html
+ERR: 非法操作:jqgrid
+
+[ 2016-06-26T12:07:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/jqgrid.html
+ERR: 非法操作:jqgrid
+
+[ 2016-06-26T12:08:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:13:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:58+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:58+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:15:58+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:16:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:55+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:56+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:56+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:56+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:56+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:56+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:56+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:56+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T18:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:00:51+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:04+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:04+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:04+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:04+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:04+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:04+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:05+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:05+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-2.0.3.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:05+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/bootstrap.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:05+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/typeahead-bs2.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:05+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery-ui-1.10.3.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:05+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.ui.touch-punch.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:05+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/jquery.slimscroll.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:05+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace-elements.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:02:05+08:00 ] 127.0.0.1 /index.php/Admin/Category/assets/js/ace.min.js
+ERR: 非法操作:assets
+
+[ 2016-06-26T19:07:48+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-26T19:07:48+08:00 ] 127.0.0.1 /index.php/Admin/Login/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-06-26T19:07:48+08:00 ] 127.0.0.1 /index.php/Admin/Login/js/H-ui.js
+ERR: 非法操作:js
+
+[ 2016-06-26T20:09:22+08:00 ] 127.0.0.1 /index.php/Admin/Category/Category/add
+ERR: 非法操作:Category
+
+[ 2016-06-26T21:50:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/form-elements.html
+ERR: 非法操作:form-elements
+
+[ 2016-06-26T21:51:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/calendar.html
+ERR: 非法操作:calendar
+
+[ 2016-06-26T21:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/form-elements.html
+ERR: 非法操作:form-elements
+
+[ 2016-06-26T21:53:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/calendar.html
+ERR: 非法操作:calendar
+
+[ 2016-06-26T21:54:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/calendar.html
+ERR: 非法操作:calendar
+
+[ 2016-06-26T21:54:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/widgets.html
+ERR: 非法操作:widgets
+
+[ 2016-06-26T21:54:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/widgets.html
+ERR: 非法操作:widgets
+
+[ 2016-06-26T21:56:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/form-elements.html
+ERR: 非法操作:form-elements
+
+[ 2016-06-26T23:39:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/form-elements.html
+ERR: 非法操作:form-elements
+
+[ 2016-06-26T23:42:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/form-elements.html
+ERR: 非法操作:form-elements
+
+[ 2016-06-26T23:48:20+08:00 ] 127.0.0.1 /index.php/Admin/Index/form-elements.html
+ERR: 非法操作:form-elements
+
+[ 2016-06-26T23:48:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/calendar.html
+ERR: 非法操作:calendar
+
+[ 2016-06-26T23:48:56+08:00 ] 127.0.0.1 /index.php/Admin/User/add
+ERR: 模板不存在:C:/wamp/www/imooc/Admin/View/User/add.html
+
