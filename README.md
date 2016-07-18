@@ -1,6 +1,2 @@
 # imooc
-123123123122
-dfggggggggggggggg
-
-sfafasfas
-asfasfasf
+初始化项目
